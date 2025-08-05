@@ -1,7 +1,7 @@
 
 # Legendary Pokémon Classification Using DNN
 
-This project classifies Pokémon as Legendary or non-Legendary using machine learning and deep learning models. We compare classical algorithms like Logistic Regression and Random Forest with neural networks, including a ResNet-style deep neural network built in PyTorch.
+This project classifies Pokémon as Legendary or non-Legendary using machine learning and deep learning models. I compare classical algorithms like Logistic Regression and Random Forest with neural networks, including a ResNet-style deep neural network built in PyTorch.
 
 ## 🔍 Overview
 
